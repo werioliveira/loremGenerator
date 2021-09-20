@@ -41,6 +41,8 @@ To run code you need</h2>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/weri-oliveira-81054a197/)
 &nbsp;
+
+
 ![werioliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=werioliveira&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werioliveira&layout=compact)](https://github.com/werioliveira/github-readme-stats)
